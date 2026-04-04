@@ -1,0 +1,6 @@
+node_modules/
+api-keys/api-keys.env
+*.pptx
+.DS_Store
+__pycache__/
+*.pyc
