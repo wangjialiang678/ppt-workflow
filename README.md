@@ -57,25 +57,28 @@ NotebookLM 等工具生成的 PPT 无法修改。本工作流输出标准 `.pptx
 
 ## 15 种可用风格
 
-| 风格 | 适用场景 |
-|------|----------|
-| Apple Bento Grid | 产品发布、科技展示 |
-| McKinsey Consulting Blue | 商业汇报、咨询报告 |
-| TED Talk Minimal | 演讲、思想传播 |
-| Netflix Dark Entertainment | 创意展示、品牌故事 |
-| Spotify Gradient | 年轻品牌、音乐文化 |
-| Glass-Morphism Tech | AI / 科技主题 |
-| Brutalism | 先锋设计、颠覆性内容 |
-| Editorial Magazine | 文化、艺术、深度内容 |
-| Wabi-Sabi | 禅意、东方美学 |
-| Luxury Dark Gold | 高端品牌、奢侈品 |
-| Silicon Valley Pitch | 创业路演、融资 |
-| Notion/Linear Minimal | 内部分享、技术文档 |
-| Bold Gradient | 营销、活动宣传 |
-| Data Visualization | 数据报告、分析展示 |
-| 发布会全图大字 | 发布会、TED 式演讲 |
+同一页内容，15 种完全不同的视觉体验：
 
-不确定选哪个？不用选——AI 会根据你的演讲场景推荐。
+| | |
+|---|---|
+| ![01](docs/screenshots/styles/style-01.png) | ![02](docs/screenshots/styles/style-02.png) |
+| **01. Apple Bento Grid** — 产品发布、科技展示 | **02. McKinsey Consulting Blue** — 商业汇报、咨询报告 |
+| ![03](docs/screenshots/styles/style-03.png) | ![04](docs/screenshots/styles/style-04.png) |
+| **03. TED Talk Minimal** — 演讲、思想传播 | **04. Netflix Dark** — 创意展示、品牌故事 |
+| ![05](docs/screenshots/styles/style-05.png) | ![06](docs/screenshots/styles/style-06.png) |
+| **05. Spotify Gradient** — 年轻品牌、音乐文化 | **06. Glass-Morphism Tech** — AI / 科技主题 |
+| ![07](docs/screenshots/styles/style-07.png) | ![08](docs/screenshots/styles/style-08.png) |
+| **07. Brutalism** — 先锋设计、颠覆性内容 | **08. Editorial Magazine** — 文化、艺术、深度内容 |
+| ![09](docs/screenshots/styles/style-09.png) | ![10](docs/screenshots/styles/style-10.png) |
+| **09. Wabi-Sabi** — 禅意、东方美学 | **10. Luxury Dark Gold** — 高端品牌、奢侈品 |
+| ![11](docs/screenshots/styles/style-11.png) | ![12](docs/screenshots/styles/style-12.png) |
+| **11. Silicon Valley Pitch** — 创业路演、融资 | **12. Notion/Linear Minimal** — 内部分享、技术文档 |
+| ![13](docs/screenshots/styles/style-13.png) | ![14](docs/screenshots/styles/style-14.png) |
+| **13. Bold Gradient** — 营销、活动宣传 | **14. Data Visualization** — 数据报告、分析展示 |
+| ![15](docs/screenshots/styles/style-15.png) | |
+| **15. 发布会全图大字** — 发布会、TED 式演讲 | |
+
+不确定选哪个？不用选——AI 会根据你的演讲场景推荐 2-3 个选项。
 
 ---
 
