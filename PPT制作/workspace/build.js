@@ -1,5 +1,7 @@
 const pptxgen = require('pptxgenjs');
-const html2pptx = require('/Users/michael/.claude/skills/pptx/scripts/html2pptx');
+const html2pptx = require(
+  path.join(process.env.HOME, '.claude', 'skills', 'pptx', 'scripts', 'html2pptx')
+);
 const sharp = require('sharp');
 const fs = require('fs');
 const path = require('path');
@@ -7,7 +9,7 @@ const path = require('path');
 const SLIDES_DIR = path.join(__dirname, 'slides');
 const ASSETS_DIR = '/tmp/ppt-assets';
 const IMG_DIR = '/tmp/ppt-assets/images';
-const OUTPUT = path.join(__dirname, 'output', 'AI+OPC-交大校友演讲.pptx');
+const OUTPUT = path.join(__dirname, 'output', process.env.PPT_NAME || 'output.pptx');
 
 // === Color Palette: Black + Warm White ===
 const C = {
